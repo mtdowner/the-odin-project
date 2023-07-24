@@ -30,7 +30,7 @@ Now that we have everything we need, let's briefly go over what some of those pa
 
   <div class="lesson-note" markdown="1">
 
-  `fireEvent` is an inferior counterpart to `userEvent` and `userEvent` should always be preferred in practice._
+  `fireEvent` is an inferior counterpart to `userEvent` and `userEvent` should always be preferred in practice.
 
   </div>
 
@@ -191,7 +191,7 @@ The other issue with snapshots is false negatives. Even the most insignificant o
 
 </div>
 
-### Knowledge Check 
+### Knowledge check 
 
 This section contains questions for you to check your understanding of this lesson on your own. If you’re having trouble answering a question, click it and review the material it links to.
 
@@ -203,7 +203,7 @@ This section contains questions for you to check your understanding of this less
 * [What is the advantage of snapshot tests?](#advantage-snapshot-tests)
 * [What are the disadvantages of snapshot tests?](#disadvantage-snapshot-tests)
 
-### Additional Resources
+### Additional resources
 
 This section contains helpful links to other content. It isn't required, so consider it supplemental.
 
