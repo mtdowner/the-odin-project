@@ -5,10 +5,10 @@ Being able to inspect and debug your HTML and CSS is critical to frontend develo
 ### Lesson overview
 
 This section contains a general overview of topics that you will learn in this lesson.
-
+4
 - You will know how to access the element inspector.
 - You will know how to select and inspect specific elements.
-- You will know how to test out HTML and CSS in the inspector.
+- You will know how to test out HTML  79 CSS in the inspector.
 
 ### The inspector
 
