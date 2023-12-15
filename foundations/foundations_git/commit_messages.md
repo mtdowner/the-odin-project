@@ -46,7 +46,6 @@ A concise yet clear description of what you did.
 Describe the problem your commit solves and how.
 ~~~
 
-
 Now that we learned the secret to creating a good commit message, let's try and fix the commit message from earlier:
 
 ~~~git
@@ -61,12 +60,9 @@ Ahh, that's better! :) Now, developers can gain a better understanding of this c
 * Contains a body that provides a concise yet clear description of why the commit needed to be made (e.g., "Screen readers won't read the images to users with disabilities without this information")
 * Separates the subject from the body with a new/blank line. This is a best practice we highly recommend following. It makes commit messages easier for other developers to read. 
 
-
-
 ### When to commit
 
 A good way to view a commit is like a “snapshot” of your code at the moment that it was made. That version of your code up to that point will be saved for you to revert back to or look back at. 
-
 
 When writing code, it's considered best practice to commit every time you have a meaningful change in the code. This will create a timeline of your progress and show that your finished code didn't appear out of nowhere.
 
@@ -81,7 +77,6 @@ There will come a time when you are working on a project and you FINALLY get som
 1.  This article, [How to Write a Git Commit Message](https://cbea.ms/git-commit), covers all the main bases on how to write good commit messages. The whole article is great and informative but the meat of the article is “The seven rules of a great commit message.”
 
 </div>
-
 
 ### Tips and things to remember:
 
